@@ -248,7 +248,7 @@ body {
 
 @media (max-width: 480px) {
   .invitation-text h1 {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
   .invitation-text p {
