@@ -108,7 +108,7 @@ const guestDatabase = [
     ],
   },
   {
-    code: "JSA",
+    code: "SJA",
     guests: [
       { id: 40, name: "Jennifer Samayoa", confirmed: null },
       { id: 41, name: "Jennifer's boyfriend", confirmed: null },
